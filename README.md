@@ -3,7 +3,7 @@
 
 http://159.223.124.38:3000/
 
-In this project we are designing Applications using Computer Vision API.
+In this project I am designing Applications using Computer Vision API.
 
 Azure API use algorithms to process images and return data based on the visual features you're interested in with Azure's Computer Vision service.
 
