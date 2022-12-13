@@ -130,6 +130,7 @@ Future Scopes.
 1. Improving the UI.
 2. Implemented more computer vision API such as Facial recognition, Object recognition, Face Analysis, Object movement.
 3. Making API faster.
+4. Image Upload.
 
 <br>
 ## You can reach out 😊😊
