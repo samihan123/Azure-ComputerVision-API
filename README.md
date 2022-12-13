@@ -76,9 +76,16 @@ Output
 <br>
 ![image](https://user-images.githubusercontent.com/22686539/207454408-0a2428ec-b92f-4adb-a68d-8ea7ec34c685.png)
 
+Video Tutorial.
+<br>
+
+[screen-capture (1).webm](https://user-images.githubusercontent.com/22686539/207460053-7ff6371e-a637-4b87-a42f-3a3489c6ac45.webm)
+
+
+
 You can also access the API created using Postman application.
 
-Following URL should call using post 
+Following URL can be call using POST 
 ```
 
 http://159.223.124.38:3000/readtext
